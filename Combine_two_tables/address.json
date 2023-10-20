@@ -1,0 +1,14 @@
+[
+    {
+        "addressId": 1,
+        "personId": 2,
+        "city": "New York City",
+        "state": "New York"
+    },
+    {
+        "addressId": 2,
+        "personId": 3,
+        "city": "Leetcode",
+        "state": "California"
+    }
+]

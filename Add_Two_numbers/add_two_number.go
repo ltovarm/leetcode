@@ -91,7 +91,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 
 	for ; i < maxLenght; i++ {
 		if len(slice1) <= len(slice2) {
-			if (slice2[i] + rest) < 9 {
+			if (slice2[i] + rest) <= 9 {
 				result = append(result, slice2[i]+rest)
 				rest = 0
 			} else {

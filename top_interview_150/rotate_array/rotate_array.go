@@ -19,39 +19,3 @@ func rotate(nums []int, k int) {
 	reverse(nums, 0, k-1)      // Reverse first half of array
 	reverse(nums, k, lenght-1) // Reverse second half of array
 }
-
-// func main() {
-
-// 	nums := []int{1, 2, 3, 4, 5, 6, 7}
-// 	k := 3
-
-// 	rotate(nums, k)
-
-// 	fmt.Println(nums)
-
-// 	nums = []int{-1, -100, 3, 99}
-// 	k = 2
-// 	rotate(nums, k)
-
-// 	fmt.Println(nums)
-
-// 	nums = []int{-1}
-// 	k = 2
-// 	rotate(nums, k)
-
-// 	fmt.Println(nums)
-
-// 	nums = []int{1, 2}
-// 	k = 3
-// 	rotate(nums, k)
-
-// 	fmt.Println(nums)
-
-// 	nums = []int{1, 2, 3, 4, 5, 6, 7}
-// 	k = 9
-
-// 	rotate(nums, k)
-
-// 	fmt.Println(nums)
-
-// }

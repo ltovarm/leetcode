@@ -22,7 +22,7 @@ Explanation about the project's folder structure:
 - [Second_highest_salary](https://github.com/ltovarm/leetcode/tree/master/Second_highest_salary): Python.
 - [Two_sum](https://github.com/ltovarm/leetcode/tree/master/Two_sum): Golang.
 - [pascalstriangle](https://github.com/ltovarm/leetcode/tree/master/pascalstriangle): Golang.
-- [top_interview_150/](https://github.com/ltovarm/leetcode/tree/master/): Golang.
+- [top_interview_150/](https://github.com/ltovarm/leetcode/tree/master/top_interview_150): Golang.
     - [majotiry_element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/majotiry_element): Golang.
     - [merge_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/merge_sorted_array): Golang.
     - [remove_element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_element): Golang.

@@ -1,0 +1,29 @@
+name: Go Unit Tests
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    name: Run Unit Tests
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.20
+
+    - name: Run majority_element_test
+      run: go test ./top_interview_150/majotiry_element/majority_element_test.go
+
+    - name: Run merge_sorted_array
+      run: go test ./top_interview_150/majotiry_element/merge_sorted_array_test.go
+
+    - name: Run remove_element
+      run: go test ./top_interview_150/majotiry_element/remove_element_test.go
+
+    - name: Run rotate_array
+      run: go test ./top_interview_150/majotiry_element/rotate_array_test.go

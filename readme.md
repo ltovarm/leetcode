@@ -27,6 +27,7 @@ Explanation about the project's folder structure:
     - [merge_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/merge_sorted_array): Golang.
     - [remove_element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_element): Golang.
     - [rotate_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/rotate_array): Golang.
+    - [valid_palindrome](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/valid_palindrome): Golang.
 
 
 

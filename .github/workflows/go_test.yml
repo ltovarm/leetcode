@@ -30,3 +30,6 @@ jobs:
 
     - name: Run valid_palindrome
       run : go test ./top_interview_150/valid_palindrome
+
+    - name: Run max_depth_of_binary_tree
+      run : go test ./top_interview_150/max_depth_of_binary_tree

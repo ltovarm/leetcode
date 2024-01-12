@@ -11,6 +11,7 @@ Explanation about the project's folder structure:
 - `/remove_element`: Remove all occurrences of val in nums in-place.
 - `/rotate_array`: Rotate un slice k times.
 - `/valid_palindrome`: Check if the string is a palindrome.
+- `/max_depth_of_binary_tree`: Get the maximum deep of one binary tree.
 
 ## Repository Contents
 
@@ -19,6 +20,7 @@ Explanation about the project's folder structure:
 - [remove_element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_element): Golang.
 - [rotate_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/rotate_array): Golang.
 - [valid_palindrome](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/valid_palindrome): Golang.
+- [max_depth_of_binary_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/max_depth_of_binary_tree): Golang.
 
 
 

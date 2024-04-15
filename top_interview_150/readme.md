@@ -12,6 +12,7 @@ Explanation about the project's folder structure:
 - `/rotate_array`: Rotate un slice k times.
 - `/valid_palindrome`: Check if the string is a palindrome.
 - `/max_depth_of_binary_tree`: Get the maximum deep of one binary tree.
+- `/same_tree`: Check if two binary trees are equals.
 
 ## Repository Contents
 
@@ -21,6 +22,8 @@ Explanation about the project's folder structure:
 - [rotate_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/rotate_array): Golang.
 - [valid_palindrome](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/valid_palindrome): Golang.
 - [max_depth_of_binary_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/max_depth_of_binary_tree): Golang.
+- [same_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/same_tree): Golang.
+- [Invert_Binary_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/Invert_Binary_Tree): C++.
 
 
 

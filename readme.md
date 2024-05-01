@@ -31,6 +31,7 @@ Explanation about the project's folder structure:
     - [max_depth_of_binary_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/max_depth_of_binary_tree): Golang.
     - [same_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/same_tree): Golang.
     - [Invert_Binary_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/Invert_Binary_Tree): C++.
+    - [symmetric_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/symmetric_Tree): C++.
 
 
 

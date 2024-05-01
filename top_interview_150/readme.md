@@ -13,6 +13,8 @@ Explanation about the project's folder structure:
 - `/valid_palindrome`: Check if the string is a palindrome.
 - `/max_depth_of_binary_tree`: Get the maximum deep of one binary tree.
 - `/same_tree`: Check if two binary trees are equals.
+- `/Invert_Binary_Tree`: Return a invert binary tree.
+- `/symmetric_Tree`: Check if the tree is symmetric.
 
 ## Repository Contents
 
@@ -24,6 +26,7 @@ Explanation about the project's folder structure:
 - [max_depth_of_binary_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/max_depth_of_binary_tree): Golang.
 - [same_tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/same_tree): Golang.
 - [Invert_Binary_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/Invert_Binary_Tree): C++.
+- [symmetric_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/symmetric_Tree): C++.
 
 
 

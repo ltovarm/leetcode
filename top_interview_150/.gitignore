@@ -1,1 +1,14 @@
-build
+# folders
+**/build/
+/bin/
+/out/
+/Debug/
+/Release/
+
+# extensions
+*.exe
+*.out
+*.bin
+*.o
+*.a
+*.so

@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/build/${fileBasenameNoExtension}", // Ruta al ejecutable
+            "args": [], // Argumentos que se pasan al programa
+            "stopAtEntry": false, // Si deseas detenerte en la entrada del programa
+            "cwd": "${workspaceFolder}", // Directorio de trabajo
+            "environment": [],
+            "externalConsole": false, // Usar consola externa
+            "MIMode": "gdb", // Modo de depuración: gdb
+            "preLaunchTask": "cppbuild", // Tarea a ejecutar antes de iniciar la depuración
+            "miDebuggerPath": "/usr/bin/gdb", // Ruta a gdb
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "logging": {
+                "engineLogging": true,
+                "trace": true,
+                "traceResponse": true
+            }
+        }
+    ]
+}

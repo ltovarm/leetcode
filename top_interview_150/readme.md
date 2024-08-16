@@ -16,6 +16,8 @@ Explanation about the project's folder structure:
 - `/Invert_Binary_Tree`: Return a invert binary tree.
 - `/symmetric_Tree`: Check if the tree is symmetric.
 - `/search_Insert_Position` : Given a sorted array of distinct integers and a target value, return the index if the target is found.
+- `/convert_Sorted_Array_To_Binary_Search_Tree` : Given an integer array `nums` where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
+- `/search_2D_matrix` : Given an integer target, return true if target is in matrix or false otherwise.
 ## Repository Contents
 
 - [majotiry_element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/majotiry_element): Golang.
@@ -28,6 +30,8 @@ Explanation about the project's folder structure:
 - [Invert_Binary_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/Invert_Binary_Tree): C++.
 - [symmetric_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/symmetric_Tree): C++.
 - [search_Insert_Position](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/search_Insert_Position): C++.
+- [convert_Sorted_Array_To_Binary_Search_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/convert_Sorted_Array_To_Binary_Search_Tree): C++.
+- [search_2D_matrix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/search_2D_matrix): C++.
 
 ## Contact Information
 

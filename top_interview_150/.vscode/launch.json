@@ -6,7 +6,13 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/build/${fileBasenameNoExtension}", // Ruta al ejecutable
-            "args": [], // Argumentos que se pasan al programa
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}/build/${fileBasenameNoExtension}"
+            ], // Argumentos que se pasan al programa
             "stopAtEntry": false, // Si deseas detenerte en la entrada del programa
             "cwd": "${workspaceFolder}", // Directorio de trabajo
             "environment": [],

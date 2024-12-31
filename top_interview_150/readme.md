@@ -20,6 +20,7 @@ Explanation about the project's folder structure:
 - `/search_2D_matrix` : Given an integer target, return true if target is in matrix or false otherwise.
 - `/find_Peak_Element` : Given a 0-indexed integer array nums, find a peak element, and return its index.
 - `/remove_duplicates_from_sorted_array` : Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once.
+- `/best_time_to_buy_and_sell_stock` : You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
 ## Repository Contents
 
@@ -37,6 +38,7 @@ Explanation about the project's folder structure:
 - [search_2D_matrix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/search_2D_matrix): C++.
 - [find_Peak_Element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/find_Peak_Element): C++.
 - [remove_duplicates_from_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_duplicates_from_sorted_array): C++.
+- [best_time_to_buy_and_sell_stock](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/best_time_to_buy_and_sell_stock) : C++.
 
 ## Contact Information
 

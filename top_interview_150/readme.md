@@ -19,6 +19,7 @@ Explanation about the project's folder structure:
 - `/convert_Sorted_Array_To_Binary_Search_Tree` : Given an integer array `nums` where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
 - `/search_2D_matrix` : Given an integer target, return true if target is in matrix or false otherwise.
 - `/find_Peak_Element` : Given a 0-indexed integer array nums, find a peak element, and return its index.
+- `/remove_duplicates_from_sorted_array` : Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once.
 
 ## Repository Contents
 
@@ -35,6 +36,7 @@ Explanation about the project's folder structure:
 - [convert_Sorted_Array_To_Binary_Search_Tree](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/convert_Sorted_Array_To_Binary_Search_Tree): C++.
 - [search_2D_matrix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/search_2D_matrix): C++.
 - [find_Peak_Element](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/find_Peak_Element): C++.
+- [remove_duplicates_from_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_duplicates_from_sorted_array): C++.
 
 ## Contact Information
 

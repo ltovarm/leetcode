@@ -12,7 +12,7 @@ Explanation about the project's folder structure:
 - `/Second_highest_salary`: Find the second highest salary from the Employee table.
 - `/Two_sum`: Finds the two elements in an array that add up to a specific value.
 - `/pascalstriangle`: Given an index returns the corresponding row of Pascal's triangle.
-- [/top_interview_150](<https://github.com/ltovarm/leetcode/tree/master/top_interview_150>) : Within the leetcode pages there is a section of the 150 most frequent interviews where these problems will be solved..
+- [`/top_interview_150`](https://github.com/ltovarm/leetcode/tree/master/top_interview_150) : Within the leetcode pages there is a section of the 150 most frequent interviews where these problems will be solved..
 
 ## Repository Contents
 
@@ -35,6 +35,7 @@ Explanation about the project's folder structure:
   - [search_Insert_Position](<https://github.com/ltovarm/leetcode/tree/master/top_interview_150/search_Insert_Positione>) : C++.
   - [search_2D_matrix](<https://github.com/ltovarm/leetcode/tree/master/top_interview_150/search_2D_matrix>) : C++.
   - [convert_Sorted_Array_To_Binary_Search_Tree](<https://github.com/ltovarm/leetcode/tree/master/top_interview_150/convert_Sorted_Array_To_Binary_Search_Tree>) : C++.
+  - [remove_duplicates_from_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_duplicates_from_sorted_array) : C++.
 
 ## Contact Information
 

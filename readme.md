@@ -37,6 +37,7 @@ Explanation about the project's folder structure:
   - [convert_Sorted_Array_To_Binary_Search_Tree](<https://github.com/ltovarm/leetcode/tree/master/top_interview_150/convert_Sorted_Array_To_Binary_Search_Tree>) : C++.
   - [remove_duplicates_from_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_duplicates_from_sorted_array) : C++.
   - [best_time_to_buy_and_sell_stock](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/best_time_to_buy_and_sell_stock) : C++.
+  - [roman_to_integer](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/roman_to_integer) : C++.
 
 ## Contact Information
 

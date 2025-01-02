@@ -38,6 +38,7 @@ Explanation about the project's folder structure:
   - [remove_duplicates_from_sorted_array](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/remove_duplicates_from_sorted_array) : C++.
   - [best_time_to_buy_and_sell_stock](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/best_time_to_buy_and_sell_stock) : C++.
   - [roman_to_integer](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/roman_to_integer) : C++.
+  - [length_of_last_word](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/length_of_last_word) : C++.
 
 ## Contact Information
 

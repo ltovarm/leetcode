@@ -39,6 +39,7 @@ Explanation about the project's folder structure:
   - [best_time_to_buy_and_sell_stock](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/best_time_to_buy_and_sell_stock) : C++.
   - [roman_to_integer](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/roman_to_integer) : C++.
   - [length_of_last_word](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/length_of_last_word) : C++.
+  - [longest_common_prefix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/longest_common_prefix) : C++.
 
 ## Contact Information
 

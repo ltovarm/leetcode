@@ -23,6 +23,7 @@ Explanation about the project's folder structure:
 - `/best_time_to_buy_and_sell_stock` : You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 - `/roman_to_integer` : Given a roman numeral, convert it to an integer.
 - `/length_of_last_word` : Given a string s consisting of words and spaces, return the length of the last word in the string.
+- `/longest_common_prefix` : Write a function to find the longest common prefix string amongst an array of strings.
 
 ## Repository Contents
 
@@ -43,6 +44,7 @@ Explanation about the project's folder structure:
 - [best_time_to_buy_and_sell_stock](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/best_time_to_buy_and_sell_stock) : C++.
 - [roman_to_integer](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/roman_to_integer) : C++.
 - [length_of_last_word](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/length_of_last_word) : C++.
+- [longest_common_prefix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/longest_common_prefix) : C++.
 
 ## Contact Information
 

@@ -24,6 +24,7 @@ Explanation about the project's folder structure:
 - `/roman_to_integer` : Given a roman numeral, convert it to an integer.
 - `/length_of_last_word` : Given a string s consisting of words and spaces, return the length of the last word in the string.
 - `/longest_common_prefix` : Write a function to find the longest common prefix string amongst an array of strings.
+- `/find_first_ocurrence` : Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 ## Repository Contents
 
@@ -45,6 +46,7 @@ Explanation about the project's folder structure:
 - [roman_to_integer](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/roman_to_integer) : C++.
 - [length_of_last_word](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/length_of_last_word) : C++.
 - [longest_common_prefix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/longest_common_prefix) : C++.
+- [find_first_ocurrence](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/find_first_ocurrence) : C++.
 
 ## Contact Information
 

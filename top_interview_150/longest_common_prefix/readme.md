@@ -43,7 +43,7 @@ Run time <= 0 ms Beats 100.00 % of users with C++
 
 * Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-Memory = 11.98 MB Beat 36.86.10 % of user with C++
+Memory = 11.98 MB Beat 86.10 % of user with C++
 
 ### Code
 

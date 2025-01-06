@@ -26,6 +26,7 @@ Explanation about the project's folder structure:
 - `/longest_common_prefix` : Write a function to find the longest common prefix string amongst an array of strings.
 - `/find_first_ocurrence` : Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 - `/is_subsequence` : Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
+- `/ransom_note` : Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
 
 ## Repository Contents
 
@@ -49,6 +50,7 @@ Explanation about the project's folder structure:
 - [longest_common_prefix](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/longest_common_prefix) : C++.
 - [find_first_ocurrence](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/find_first_ocurrence) : C++.
 - [is_subsequence](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/is_subsequence) : C++.
+- [ransom_note](https://github.com/ltovarm/leetcode/tree/master/top_interview_150/ransom_note) : C++.
 
 ## Contact Information
 
